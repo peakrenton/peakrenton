@@ -8,6 +8,7 @@
 
 ### 💖 Support My Work
 If you’d like to support my projects, consider making a donation on one of the platforms below:
+- **BTC (Bitcoin):** `19v2FoPKqxz9tGogGFdgEz5JbNzrB91yGF`
 - **[Check my donate page](https://github.com/peakrenton/Donate)** for more options and information.
 
 [![Reymit](https://img.shields.io/badge/Reymit-Donate-purple.svg)](https://github.com/peakrenton/Donate) |
