@@ -1,4 +1,4 @@
-# 👋 Welcome to SamSesh's GitHub!
+# 👋 Welcome to PeakRenton's GitHub!
 
 [![📊 GitHub Stats](https://github-readme-stats.vercel.app/api?username=samsesh&show_icons=true&theme=blueberry)](https://SamSesh.net)  
 [![⏱️ Wakatime](https://wakatime.com/badge/user/2d790348-8bf9-48d0-a885-8d98a4025aa6.svg)](https://wakatime.com/@2d790348-8bf9-48d0-a885-8d98a4025aa6)
